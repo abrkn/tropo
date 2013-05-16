@@ -1,0 +1,12 @@
+{
+  "name": "tropo",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "~0.2.8",
+    "debug": "~0.7.2",
+    "request": "~2.21.0",
+    "lodash": "~1.2.1",
+    "optimist": "~0.4.0",
+    "xml2js": "~0.2.7"
+  }
+}
